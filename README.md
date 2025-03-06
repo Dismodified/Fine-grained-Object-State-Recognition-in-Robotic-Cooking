@@ -26,3 +26,6 @@ The notebook will:
 ## **Troubleshooting**
 - Make sure you installed PyTorch with CUDA
 
+## **Issues with Code**
+- Current warning displayed at beginning of run (Looking for workaround to fix that doesnt cause flucuation)
+- Adjusting rates to stabilize train/valid
