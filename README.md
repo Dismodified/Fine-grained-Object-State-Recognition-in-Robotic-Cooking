@@ -5,6 +5,24 @@
 - Jack Wilson
 - Sean Kenney
 
+## **Features**
+- CUDA acceleration for faster training.
+- Early stopping to prevent overfitting.
+- Tracks training progress with loss, accuracy, and F1-score.
+- Saves as best_model.pth
 
+## **Usage**
+Run CNN.ipynb inside Jupyter Notebook.
+This will:
+- Load images from state_dataset/train/ and state_dataset/valid/
+- Train the model for 50 epochs (or until early stopping)
+- Save the best model as best_model.pth
 
+The notebook will:
+- Load best_model.pth
+- Show validation accuracy and F1-score
+- Create training loss and accuracy plots
+
+## **Troubleshooting**
+- Make sure you installed PyTorch with CUDA
 
