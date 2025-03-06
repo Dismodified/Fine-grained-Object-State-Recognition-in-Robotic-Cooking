@@ -18,6 +18,10 @@
 - Tracks training progress with loss, accuracy, and F1-score.
 - Saves as best_model.pth
 
+## **How to Set Up**
+Step-by-Step Guide to set up PyTorch within Jupyter Notebook.
+https://medium.com/@kajaani1705/a-step-by-step-guide-to-using-pytorch-with-vscode-in-jupyter-notebook-f09c427f84e4
+
 ## **Usage**
 Run CNN.ipynb inside Jupyter Notebook.
 This will:
