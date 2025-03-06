@@ -5,6 +5,13 @@
 - Jack Wilson
 - Sean Kenney
 
+## **Items Needed**
+- CNN.ipynb
+- state_dataset folder (for train and valid)
+
+## **Items Created**
+- best_model.pth
+
 ## **Features**
 - CUDA acceleration for faster training.
 - Early stopping to prevent overfitting.
