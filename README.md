@@ -3,7 +3,7 @@
 ## **EEL4810 Project Group #7**
 - Corey Barbera
 - Jack Wilson
-- Sean Kenney
+
 
 ## **Items Needed**
 - CNN.ipynb
